@@ -20,5 +20,6 @@
   "garetz.pellet.factor": "1.0",
   "garetz.bag.factor": "1.0",
   "garetz.filter.factor": "1.0",
-  "backend.git.enabled": "false"
+  "backend.git.enabled": "true",
+  "backend.git.remote.repo": "https://github.com/alan-mcl/brewday_data_test.git"
 }
