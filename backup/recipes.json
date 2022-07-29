@@ -790,6 +790,18 @@
           {
             "unit": "GRAMS",
             "quantity": {
+              "amount": "99.0",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "name": "Admiral",
+            "hop": "Admiral",
+            "time": 540.0,
+            "type": "HOPS"
+          },
+          {
+            "unit": "GRAMS",
+            "quantity": {
               "amount": "25.0",
               "unit": "GRAMS",
               "estimate": false
