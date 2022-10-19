@@ -13,7 +13,7 @@
   "hop.adjustment.pellet": "0.1",
   "hop.bitterness.formula": "TINSETH",
   "mash.ph.model": "MPH",
-  "ux.ingredient.additions.from.inventory.only": "false",
+  "ux.ingredient.additions.from.inventory.only": "true",
   "mph.malt.buffering.correction.factor": "0.6",
   "tinseth.max.utilisation": "4.15",
   "garetz.yeast.factor": "1.0",
