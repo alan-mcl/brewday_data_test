@@ -701,6 +701,54 @@
           {
             "unit": "GRAMS",
             "quantity": {
+              "amount": "0.176",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "name": "Calcium Chloride",
+            "time": 0.0,
+            "type": "MISC",
+            "misc": "Calcium Chloride"
+          },
+          {
+            "unit": "GRAMS",
+            "quantity": {
+              "amount": "1.006",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "name": "Epsom Salt (Magnesium Sulfate)",
+            "time": 0.0,
+            "type": "MISC",
+            "misc": "Epsom Salt (Magnesium Sulfate)"
+          },
+          {
+            "unit": "GRAMS",
+            "quantity": {
+              "amount": "0.163",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "name": "Salt (Sodium Chloride)",
+            "time": 0.0,
+            "type": "MISC",
+            "misc": "Salt (Sodium Chloride)"
+          },
+          {
+            "unit": "GRAMS",
+            "quantity": {
+              "amount": "0.519",
+              "unit": "GRAMS",
+              "estimate": false
+            },
+            "name": "Calcium Bicarbonate",
+            "time": 0.0,
+            "type": "MISC",
+            "misc": "Calcium Bicarbonate"
+          },
+          {
+            "unit": "GRAMS",
+            "quantity": {
               "amount": "8.0",
               "unit": "GRAMS",
               "estimate": false
